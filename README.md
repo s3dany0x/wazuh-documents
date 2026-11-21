@@ -1,4 +1,6 @@
 ## 🏗️ Architecture Overview: Argus Hierarchical XDR
+<img width="2000" height="1454" alt="argus-architecture" src="https://github.com/user-attachments/assets/06fe6604-61c4-459b-b3e2-94502403b23a" />
+
 
 The **Argus** project is designed as a True Distributed Enterprise Architecture (Federated SOC). It transforms a traditional centralized SIEM into a highly scalable, hierarchical XDR system.
 
